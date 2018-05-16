@@ -15,7 +15,7 @@ public class Main {
         System.out.println("O perímetro do quadrado é: " + quadrado.calcularPerimetro());
 
 
-        System.out.println("Por favor, digite o tamanho do raio do seu circulo >=]:)");
+        System.out.println("Por favor, digite o tamanho do raio do seu circulo >=]");
         float raioCirculo = scanner.nextFloat();
 
         Circulo circulo = new Circulo();
